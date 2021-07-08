@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=odakab&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=pajtor&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **pajtor/pajtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
